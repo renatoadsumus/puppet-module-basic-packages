@@ -1,0 +1,15 @@
+{
+  "name": "renatoadsumus/basic_packages",
+  "version": "0.1.0",
+  "author": "renatoadsumus",
+  "summary": "Install main packages wget, iputils and net-tools",
+  "license": "Centos7",
+  "source": "https://github.com/renatoadsumus/puppet-module-basic-packages.git",
+  "project_page": "https://github.com/renatoadsumus/puppet-module-basic-packages.git",
+  "issues_url": "https://github.com/renatoadsumus/puppet-module-basic-packages.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
