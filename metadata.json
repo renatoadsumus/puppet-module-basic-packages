@@ -1,6 +1,6 @@
 {
   "name": "renatoadsumus/basic_packages",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "author": "renatoadsumus",
   "summary": "Install main packages wget, iputils and net-tools",
   "license": "Centos7",
